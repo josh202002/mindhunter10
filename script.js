@@ -1,7 +1,7 @@
 function pg1(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="the only thing"){
         window.location.assign("acideg2.html")
     }
     else {
@@ -13,7 +13,7 @@ function pg1(){
 function pg2(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="necessary"){
         window.location.assign("bicdie3.html")
     }
     else {
@@ -25,7 +25,7 @@ function pg2(){
 function pg3(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="for the triumph"){
         window.location.assign("zijyou4.html")
     }
     else {
@@ -37,7 +37,7 @@ function pg3(){
 function pg4(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="of evil"){
         window.location.assign("cfbdi5.html")
     }
     else {
@@ -49,7 +49,7 @@ function pg4(){
 function pg5(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="is for good men"){
         window.location.assign("oiplom6.html")
     }
     else {
@@ -61,7 +61,7 @@ function pg5(){
 function pg6(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="to do nothing"){
         window.location.assign("bbauop7.html")
     }
     else {
@@ -73,7 +73,7 @@ function pg6(){
 function pg7(){
     let i=document.getElementById("key").value;
     let paa;
-    if(i=="test"){
+    if(i=="the only thing necessary for the triumph of evil is for good men to do nothing"){
         window.location.assign("azghij8.html")
     }
     else {
